@@ -31,9 +31,7 @@ Organized columns for better readability.
 Created summary statistics to validate data quality.
 Prepared the dataset for further analysis and visualization.
 ✅ Outcome
-
 The final dataset is:
-
 Clean
 Consistent
 Free from duplicate records
